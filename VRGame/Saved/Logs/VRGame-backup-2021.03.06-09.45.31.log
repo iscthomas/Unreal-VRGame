@@ -1,0 +1,1920 @@
+﻿Log file open, 03/06/21 21:32:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: VRGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.538705
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=MioMiow -epicuserid=cacc1780769f435ba6fec441b206b147 -epiclocale=en
+LogInit: Base Directory: F:/Unreal Engine/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.06-08.32.19:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:103][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.06-08.32.19:104][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:104][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:164][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.06-08.32.19:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.06-08.32.19:165][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.06-08.32.19:165][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.06-08.32.19:165][  0]LogHAL: Display: Platform has ~ 32 GB [34286215168 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.06-08.32.19:165][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.06-08.32.19:165][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:165][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.06-08.32.19:166][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.06-08.32.19:167][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE Project/Unreal-VRGame/VRGame/Saved/Config/Windows/Engine.ini]
+[2021.03.06-08.32.19:167][  0]LogInit: Computer: DESKTOP-E1U7O7O
+[2021.03.06-08.32.19:167][  0]LogInit: User: Mio
+[2021.03.06-08.32.19:167][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.06-08.32.19:167][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.06-08.32.19:167][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.03.06-08.32.19:167][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.06-08.32.19:167][  0]LogMemory: Process Physical Memory: 139.29 MB used, 139.29 MB peak
+[2021.03.06-08.32.19:167][  0]LogMemory: Process Virtual Memory: 136.67 MB used, 136.67 MB peak
+[2021.03.06-08.32.19:167][  0]LogMemory: Physical Memory: 15548.53 MB used,  17149.36 MB free, 32697.88 MB total
+[2021.03.06-08.32.19:167][  0]LogMemory: Virtual Memory: 134206328.00 MB used,  11396.23 MB free, 134217728.00 MB total
+[2021.03.06-08.32.19:173][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.06-08.32.19:221][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.06-08.32.19:222][  0]LogInit: Using OS detected language (en-US).
+[2021.03.06-08.32.19:222][  0]LogInit: Using OS detected locale (en-NZ).
+[2021.03.06-08.32.19:225][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.06-08.32.19:448][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.06-08.32.19:466][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.06-08.32.19:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.06-08.32.19:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.06-08.32.19:975][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.06-08.32.19:975][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.06-08.32.19:975][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.06-08.32.19:975][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.06-08.32.20:095][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2021.03.06-08.32.20:095][  0]LogD3D11RHI:       8043/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.03.06-08.32.20:098][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.06-08.32.20:098][  0]LogD3D11RHI:       0/0/16348 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.06-08.32.20:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.06-08.32.20:108][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.06-08.32.20:108][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.06-08.32.20:108][  0]LogWindows: EnumDisplayDevices:
+[2021.03.06-08.32.20:108][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.03.06-08.32.20:108][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:1)
+[2021.03.06-08.32.20:108][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2021.03.06-08.32.20:108][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2021.03.06-08.32.20:109][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.06-08.32.20:109][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2021.03.06-08.32.20:109][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.06-08.32.20:109][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.06-08.32.20:109][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2021.03.06-08.32.20:198][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.06-08.32.20:198][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.06-08.32.20:198][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.06-08.32.20:199][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2021.03.06-08.32.20:226][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.06-08.32.20:227][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.06-08.32.20:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.06-08.32.20:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.06-08.32.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.06-08.32.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.06-08.32.20:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.06-08.32.20:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.06-08.32.20:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.06-08.32.20:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.06-08.32.20:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.06-08.32.20:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.06-08.32.20:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.06-08.32.20:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.06-08.32.20:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.06-08.32.20:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.06-08.32.20:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.06-08.32.20:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.06-08.32.20:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.06-08.32.20:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.06-08.32.20:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.06-08.32.20:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.06-08.32.20:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.06-08.32.20:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.06-08.32.20:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.06-08.32.20:911][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.06-08.32.20:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.06-08.32.20:980][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.06-08.32.20:980][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/UE Project/Unreal-VRGame/VRGame/Intermediate/Shaders/WorkingDirectory/76420/).
+[2021.03.06-08.32.20:980][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mio/AppData/Local/Temp/UnrealShaderWorkingDir/6496C9A64A05D6C0A8940A9C843DAB2A/'.
+[2021.03.06-08.32.20:980][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.06-08.32.20:980][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.06-08.32.22:072][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.06-08.32.22:161][  0]LogDerivedDataCache: Loaded boot cache 0.09s 98MB C:/Users/Mio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.06-08.32.22:161][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.06-08.32.22:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE Project/Unreal-VRGame/VRGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.06-08.32.22:162][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.06-08.32.22:163][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE Project/Unreal-VRGame/VRGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.06-08.32.22:163][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.06-08.32.22:180][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.06-08.32.22:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.06-08.32.22:180][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.06-08.32.22:191][  0]LogDerivedDataCache: Speed tests for C:/Users/Mio/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.06-08.32.22:191][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=932.11MBs, RandomWriteSpeed=107.45MBs. Assigned SpeedClass 'Local'
+[2021.03.06-08.32.22:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.06-08.32.22:192][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.06-08.32.22:192][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.06-08.32.22:270][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.06-08.32.22:271][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.06-08.32.22:318][  0]LogAssetRegistry: FAssetRegistry took 0.0067 seconds to start up
+[2021.03.06-08.32.22:734][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.06-08.32.22:734][  0]LogInit: Active device profile: [00000176AC952100][00000176A1A8AFC0 49] Windows
+[2021.03.06-08.32.22:734][  0]LogInit: Profiles: [00000176AC952100][00000176A1A8AFC0 49] Windows, [00000176AC903000][00000176A1A93140 49] WindowsNoEditor, [00000176AC952000][00000176A1A972C0 49] WindowsServer, [00000176AC902B00][00000176A1A9B440 49] WindowsClient, [00000176AC950800][00000176ABEC55C0 49] IOS, [00000176AC900100][00000176A1A8F700 49] iPadAir, [00000176AC950F00][00000176ABEC9840 49] iPadAir2, [00000176AC89B000][00000176ABED1A80 49] IPadPro, [00000176AC89B100][00000176ABECDAC0 49] iPadAir3, [00000176AC952800][00000176ABED9C40 49] iPadAir4, [00000176AC89AC00][00000176ABEDC100 49] iPadMini2, [00000176AC952B00][00000176ABEE0280 49] iPadMini3, [00000176AC899E00][00000176ABEE4400 49] iPadMini4, [00000176AC952D00][00000176ABEE8580 49] iPadMini5, [00000176AC8A6900][00000176ABEF0840 49] iPhone6, [00000176AC8A6A00][00000176ABEEC880 49] iPodTouch6, [00000176AC900F00][00000176ABEF8B40 49] iPhone7, [00000176AC901000][00000176ABEF4B80 49] iPodTouch7, [00000176AC8A6600][00000176ABEFCD00 49] iPhone5S, [00000176AC900B00][00000176ABF00E80 49] iPhone6Plus, [00000176AC8A4F00][00000176ABF05000 49] iPhone6S, [00000176AC900800][00000176ABF09180 49] iPhone6SPlus, [00000176AC8A5700][00000176ABF0D300 49] iPhone7Plus, [00000176AC902300][00000176ABF11480 49] iPhoneSE, [00000176AC8A7A00][00000176ABF15600 49] iPhone8, [00000176AC903F00][00000176ABF19780 49] iPhone8Plus, [00000176AC8A6200][00000176ABED58C0 49] iPhoneX, [00000176AC900400][00000176ABF1DA00 49] iPhoneXS, [00000176AC8A4500][00000176ABF21B40 49] iPhoneXSMax, [00000176AC901900][00000176ABF29CC0 49] iPhoneXR, [00000176AC8A6F00][00000176ABF2C180 49] iPhone11, [00000176AC901F00][00000176ABF30300 49] iPhone11Pro, [00000176AC8A7C00][00000176ABF34480 49] iPhone11ProMax, [00000176AC903600][00000176ABF38600 49] iPhoneSE2, [00000176AC8A6500][00000176ABF3C780 49] iPhone12Mini, [00000176AC903700][00000176ABF40900 49] iPhone12, [00000176AC8A7B00][00000176ABF44A80 49] iPhone12Pro, [00000176AC903C00][00000176ABF48C00 49] iPhone12ProMax, [00000176AC8A4100][00000176ABF4CD80 49] iPadPro105, [00000176AC900300][00000176ABF50F00 49] iPadPro129, [00000176AC8A5000][00000176ABF55080 49] iPadPro97, [00000176AC902600][00000176ABF59200 49] iPadPro2_129, [00000176AC8A4800][00000176ABF5D380 49] iPad5, [00000176AC950900][00000176ABF61500 49] iPad6, [00000176AC8A4600][00000176ABF65680 49] iPad7, [00000176AC953000][00000176ABF69800 49] iPad8, [00000176AC8A6E00][00000176ABF25940 49] iPadPro11, [00000176AC951E00][00000176ABF6DA80 49] iPadPro2_11, [00000176AC8A4400][00000176ABF71BC0 49] iPadPro3_129, [00000176AC953400][00000176ABF75D00 49] iPadPro4_129, [00000176AC8A6400][00000176ABF7C1C0 49] AppleTV, [00000176AC951A00][00000176ABF80340 49] AppleTV4K, [00000176AC8A7300][00000176ABF844C0 49] TVOS, [00000176AC952E00][00000176ABF88640 49] Mac, [00000176AC8A6D00][00000176ABF8C7C0 49] MacClient, [00000176AC951500][00000176ACFA0940 49] MacNoEditor, [00000176AC8A7500][00000176ACFA4AC0 49] MacServer, [00000176AC953600][00000176ACFA8C40 49] Linux, [00000176AC8A5500][00000176ACFACDC0 49] LinuxNoEditor, [00000176AC951100][00000176ACFB0F40 49] LinuxAArch64NoEditor, [00000176AC8A5200][00000176ACFB50C0 49] LinuxClient, [00000176AC950200][00000176ACFB9240 49] LinuxAArch64Client, [00000176AC8A4C00][00000176ACFBD3C0 49] LinuxServer, [00000176AC951F00][00000176ACFC1540 49] LinuxAArch64Server, [00000176AC8A5600][00000176ACFC56C0 49] Android, [00000176AC951D00][00000176ACFC9840 49] Android_Low, [00000176AC8A4E00][00000176ABF79980 49] Android_Mid, [00000176AC952400][00000176ACFCDAC0 49] Android_High, [00000176AC8A7100][00000176ACFD1C00 49] Android_Default, [00000176AC952600][00000176ACFD5D40 49] Android_Adreno4xx, [00000176AC8A7400][00000176ACFDC200 49] Android_Adreno5xx_Low, [00000176AC952F00][00000176ACFE0380 49] Android_Adreno5xx, [00000176AC8A5C00][00000176ACFE4500 49] Android_Adreno6xx, [00000176AC953300][00000176ACFE8680 49] Android_Adreno6xx_Vulkan, [00000176AC8A7200][00000176ACFEC800 49] Android_Mali_T6xx, [00000176AC952500][00000176ACFF0980 49] Android_Mali_T7xx, [00000176AC8A4B00][00000176ACFF4B00 49] Android_Mali_T8xx, [00000176AC951700][00000176ACFF8C80 49] Android_Mali_G71, [00000176AC8A5800][00000176ACFFCE00 49] Android_Mali_G72, [00000176AC950C00][00000176AD000F80 49] Android_Mali_G72_Vulkan, [00000176AC8A4700][00000176AD005100 49] Android_Mali_G76, [00000176AC953500][00000176AD009280 49] Android_Mali_G76_Vulkan, [00000176AC8A4900][00000176AD00D400 49] Android_Mali_G77, [00000176AC950100][00000176AD011580 49] Android_Mali_G77_Vulkan, [00000176AC8A5900][00000176AD015700 49] Android_Vulkan_SM5, [00000176AC951300][00000176AD019880 49] Android_PowerVR_G6xxx, [00000176AC8A5F00][00000176AD01DA00 49] Android_PowerVR_GT7xxx, [00000176AC950A00][00000176ACFD9B40 49] Android_PowerVR_GE8xxx, [00000176AC89B500][00000176AD021C80 49] Android_PowerVR_GM9xxx, [00000176AC903E00][00000176AD024100 49] Android_PowerVR_GM9xxx_Vulkan, [00000176AC899200][00000176AD02C280 49] Android_TegraK1, [00000176AC902200][00000176AD030400 49] Android_Unknown_Vulkan, [00000176AC899B00][00000176AD034580 49] Lumin, [00000176AC903A00][00000176AD038700 49] Lumin_Desktop, [00000176AC898E00][00000176AD03C880 49] HoloLens, 
+[2021.03.06-08.32.22:898][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.06-08.32.22:898][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.06-08.32.22:898][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.06-08.32.22:898][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.06-08.32.22:898][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.06-08.32.22:990][  0]LogNetVersion: VRGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2300035385)
+[2021.03.06-08.32.23:722][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.06-08.32.24:613][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.890191 seconds
+[2021.03.06-08.32.24:622][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.06-08.32.24:622][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.06-08.32.24:622][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.06-08.32.25:629][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.06-08.32.25:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.06-08.32.26:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.06-08.32.26:337][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.06-08.32.26:337][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.06-08.32.26:753][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.26:753][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.26:757][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.26:762][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.26:766][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.26:780][  0]LogUProjectInfo: Found projects:
+[2021.03.06-08.32.26:833][  0]LogCollectionManager: Loaded 0 collections in 0.030348 seconds
+[2021.03.06-08.32.26:864][  0]LogFileCache: Scanning file cache for directory 'D:/UE Project/Unreal-VRGame/VRGame/Saved/Collections/' took 0.00s
+[2021.03.06-08.32.26:864][  0]LogFileCache: Scanning file cache for directory 'D:/UE Project/Unreal-VRGame/VRGame/Content/Developers/Mio/Collections/' took 0.00s
+[2021.03.06-08.32.26:864][  0]LogFileCache: Scanning file cache for directory 'D:/UE Project/Unreal-VRGame/VRGame/Content/Collections/' took 0.00s
+[2021.03.06-08.32.26:864][  0]LogOcInput: OculusInput pre-init called
+[2021.03.06-08.32.26:876][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.06-08.32.26:876][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.06-08.32.26:939][  0]LogEngine: Initializing Engine...
+[2021.03.06-08.32.27:040][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.03.06-08.32.27:041][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.06-08.32.27:042][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.06-08.32.27:227][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.06-08.32.27:239][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.06-08.32.27:260][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.06-08.32.27:264][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.06-08.32.27:264][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.06-08.32.27:264][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.06-08.32.27:264][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.06-08.32.27:264][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.06-08.32.27:294][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.06-08.32.27:294][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.06-08.32.27:353][  0]LogAudioMixer: Display: Using Audio Device SPDIF Interface (FiiO USB DAC-E10)
+[2021.03.06-08.32.27:357][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.06-08.32.27:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.06-08.32.27:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.06-08.32.27:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.06-08.32.27:362][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.06-08.32.27:362][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.06-08.32.27:366][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.06-08.32.27:366][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.06-08.32.27:366][  0]LogInit: FAudioDevice initialized.
+[2021.03.06-08.32.27:366][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.06-08.32.27:367][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.06-08.32.27:436][  0]LogDerivedDataCache: Saved boot cache 0.07s 98MB C:/Users/Mio/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.06-08.32.27:441][  0]LogInit: Texture streaming: Enabled
+[2021.03.06-08.32.27:461][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.06-08.32.27:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.06-08.32.27:466][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.06-08.32.27:471][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.06-08.32.27:822][  0]LogInit: Transaction tracking system initialized
+[2021.03.06-08.32.27:847][  0]BlueprintLog: New page: Editor Load
+[2021.03.06-08.32.27:944][  0]LocalizationService: Localization service is disabled
+[2021.03.06-08.32.28:118][  0]TimingProfiler: Initialize
+[2021.03.06-08.32.28:118][  0]TimingProfiler: OnSessionChanged
+[2021.03.06-08.32.28:118][  0]LoadingProfiler: Initialize
+[2021.03.06-08.32.28:118][  0]LoadingProfiler: OnSessionChanged
+[2021.03.06-08.32.28:118][  0]NetworkingProfiler: Initialize
+[2021.03.06-08.32.28:118][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.06-08.32.28:118][  0]MemoryProfiler: Initialize
+[2021.03.06-08.32.28:118][  0]MemoryProfiler: OnSessionChanged
+[2021.03.06-08.32.28:461][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.06-08.32.28:461][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.06-08.32.28:927][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.06-08.32.28:933][  0]SourceControl: Source control is disabled
+[2021.03.06-08.32.28:933][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.386
+[2021.03.06-08.32.28:933][  0]Cmd: MAP LOAD FILE="D:/UE Project/Unreal-VRGame/VRGame/Content/AssetsvilleTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.06-08.32.29:187][  0]LogFileCache: Scanning file cache for directory 'D:/UE Project/Unreal-VRGame/VRGame/Content/' took 0.62s
+[2021.03.06-08.32.29:187][  0]LightingResults: New page: Lighting Build
+[2021.03.06-08.32.29:188][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-08.32.29:188][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-08.32.29:189][  0]MapCheck: New page: Map Check
+[2021.03.06-08.32.29:189][  0]LightingResults: New page: Lighting Build
+[2021.03.06-08.32.29:199][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.06-08.32.59:918][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2021.03.06-08.32.59:920][  0]LogAIModule: Creating AISystem for world Demonstration
+[2021.03.06-08.33.00:372][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.03.06-08.33.00:684][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.03.06-08.33.00:686][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.06-08.33.00:688][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.285ms to complete.
+[2021.03.06-08.33.00:688][  0]LogFileHelpers: Loading map 'Demonstration' took 31.755
+[2021.03.06-08.33.00:690][  0]LogUnrealEdMisc: Total Editor Startup Time, took 44.144
+[2021.03.06-08.33.00:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.33.00:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.33.00:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.33.00:964][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.33.00:996][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3601 classes and 859 folders.
+[2021.03.06-08.33.01:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.06-08.33.01:019][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.06-08.33.01:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.06-08.33.01:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.06-08.33.01:026][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.06-08.33.01:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.06-08.33.01:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.06-08.33.01:033][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.06-08.33.01:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.06-08.33.01:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.06-08.33.01:040][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.06-08.33.01:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.06-08.33.01:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.06-08.33.01:046][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.06-08.33.01:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.06-08.33.01:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.03.06-08.33.01:050][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.06-08.33.01:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.06-08.33.01:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.06-08.33.01:055][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.06-08.33.01:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.06-08.33.01:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.06-08.33.01:060][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.06-08.33.01:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.06-08.33.01:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.03.06-08.33.01:064][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.06-08.33.01:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.06-08.33.01:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.06-08.33.01:067][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.06-08.33.01:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.06-08.33.01:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.03.06-08.33.01:070][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.06-08.33.01:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.06-08.33.01:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.03.06-08.33.01:074][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.06-08.33.01:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.06-08.33.01:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.03.06-08.33.01:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.06-08.33.01:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.06-08.33.01:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.03.06-08.33.01:080][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.06-08.33.01:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.06-08.33.01:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.03.06-08.33.01:082][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.06-08.33.01:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.06-08.33.01:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.03.06-08.33.01:086][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.06-08.33.01:086][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:086][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.06-08.33.01:086][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.03.06-08.33.01:090][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.06-08.33.01:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.06-08.33.01:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.03.06-08.33.01:094][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.06-08.33.01:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.06-08.33.01:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.03.06-08.33.01:097][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.06-08.33.01:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.06-08.33.01:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.03.06-08.33.01:100][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.06-08.33.01:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.06-08.33.01:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.03.06-08.33.01:106][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.06-08.33.01:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.06-08.33.01:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.03.06-08.33.01:109][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.06-08.33.01:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.06-08.33.01:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.03.06-08.33.01:113][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.06-08.33.01:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.06-08.33.01:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.03.06-08.33.01:117][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.06-08.33.01:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.06-08.33.01:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.03.06-08.33.01:122][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.06-08.33.01:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.06-08.33.01:122][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.03.06-08.33.01:125][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.06-08.33.01:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.06-08.33.01:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.06-08.33.01:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.03.06-08.33.01:352][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.06-08.33.01:355][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.06-08.33.01:449][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.06-08.33.01:451][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.06-08.33.01:463][  0]LogSlate: Took 0.003491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.06-08.33.01:986][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 26 NumSamples 1 (Frame:1).
+[2021.03.06-08.33.02:267][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.06-08.33.02:267][  0]LogLoad: (Engine Initialization) Total time: 45.72 seconds
+[2021.03.06-08.33.02:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.06-08.33.02:267][  0]LogInit: First time updating LLM stats...
+[2021.03.06-08.33.02:318][  0]LogAssetRegistry: Asset discovery search completed in 40.0037 seconds
+[2021.03.06-08.33.02:320][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.03.06-08.33.02:425][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.06-08.34.37:082][961]LogEditorViewport: Clicking on Actor (LMB): BoxReflectionCapture (BoxReflectionCapture61)
+[2021.03.06-08.34.38:703][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_212)
+[2021.03.06-08.41.10:487][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.06-08.41.10:497][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.06-08.41.10:501][780]PIE: New page: PIE session: Demonstration (7/03/2021, 10:41:10 am)
+[2021.03.06-08.41.10:503][780]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.06-08.41.10:505][780]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.06-08.41.10:507][780]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2021.03.06-08.41.11:048][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.540977s)
+[2021.03.06-08.41.11:050][780]LogAIModule: Creating AISystem for world Demonstration
+[2021.03.06-08.41.11:052][780]LogPlayLevel: PIE: World Init took: (0.004473s)
+[2021.03.06-08.41.11:056][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/Demonstration.Demonstration to /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.549078s)
+[2021.03.06-08.41.11:069][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.03.06-08.41.11:072][780]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.06-08.41.11:072][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.06-08.41.11:072][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.06-08.41.11:073][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.06-08.41.11:073][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.06-08.41.11:096][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.06-08.41.11:096][780]LogAudioMixer: Display: 1: FrontRight
+[2021.03.06-08.41.11:166][780]LogAudioMixer: Display: Using Audio Device SPDIF Interface (FiiO USB DAC-E10)
+[2021.03.06-08.41.11:166][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.06-08.41.11:166][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.06-08.41.11:166][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.06-08.41.11:167][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.06-08.41.11:167][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.06-08.41.11:167][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.06-08.41.11:193][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.06-08.41.11:193][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.06-08.41.11:193][780]LogInit: FAudioDevice initialized.
+[2021.03.06-08.41.11:193][780]LogAudio: Display: Audio Device (ID: 2) registered with world 'Demonstration'.
+[2021.03.06-08.41.11:210][780]LogLoad: Game class is 'FunctionalTestGameMode'
+[2021.03.06-08.41.11:539][780]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2021.03.06-21.41.11
+[2021.03.06-08.41.11:556][780]LogWorld: Bringing up level for play took: 0.341147
+[2021.03.06-08.41.11:557][780]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.06-08.41.11:570][780]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.03.06-08.41.11:585][780]PIE: Server logged in
+[2021.03.06-08.41.11:587][780]PIE: Play in editor total start time 1.093 seconds.
+[2021.03.06-08.41.23:486][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.41.23:486][786]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_Demonstration
+[2021.03.06-08.41.23:494][786]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2021.03.06-08.41.23:540][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-08.41.23:557][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.06-08.41.23:585][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.06-08.41.23:594][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.06-08.41.23:618][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-08.41.23:619][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.06-08.41.23:640][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.06-08.41.23:704][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.03.06-08.41.23:743][787]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.06-08.43.53:328][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_46)
+[2021.03.06-08.43.59:459][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_278)
+[2021.03.06-08.44.18:062][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ladder_14)
+[2021.03.06-08.45.28:149][895]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.45.37:044][336]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.45.37:819][374]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.46.28:934][601]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.46.29:664][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_17)
+[2021.03.06-08.46.30:258][679]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.46.30:937][724]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.46.35:474][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_24)
+[2021.03.06-08.46.36:736][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_17)
+[2021.03.06-08.46.37:550][ 92]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.46.40:847][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_17)
+[2021.03.06-08.46.46:896][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_24)
+[2021.03.06-08.46.47:845][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.46.49:511][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_27)
+[2021.03.06-08.46.49:960][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.46.50:700][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-08.46.51:233][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.46.51:691][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_42)
+[2021.03.06-08.46.52:169][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-08.46.52:621][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.46.54:076][ 32]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.47.36:506][215]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.47.49:150][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.47.49:889][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_190)
+[2021.03.06-08.47.54:756][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_191)
+[2021.03.06-08.47.56:307][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_202)
+[2021.03.06-08.47.57:142][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_01_corner32)
+[2021.03.06-08.47.57:629][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_01_cornerIn15)
+[2021.03.06-08.47.58:106][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_sidewalk_01_base6)
+[2021.03.06-08.47.58:673][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_186)
+[2021.03.06-08.47.59:202][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_01_corner31)
+[2021.03.06-08.47.59:823][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_186)
+[2021.03.06-08.48.00:269][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_202)
+[2021.03.06-08.48.09:892][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_9)
+[2021.03.06-08.48.10:888][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_9)
+[2021.03.06-08.48.11:909][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_48)
+[2021.03.06-08.48.14:918][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_11)
+[2021.03.06-08.48.57:205][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fruitShelveBox_02)
+[2021.03.06-08.49.33:058][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_46)
+[2021.03.06-08.49.36:168][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_46)
+[2021.03.06-08.49.37:290][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_47)
+[2021.03.06-08.49.39:431][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_47)
+[2021.03.06-08.49.40:341][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_47)
+[2021.03.06-08.49.40:938][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_47)
+[2021.03.06-08.49.52:875][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.49.58:321][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.49.58:857][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.50.42:603][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Counter_46)
+[2021.03.06-08.51.23:366][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.51.26:865][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_588)
+[2021.03.06-08.51.41:461][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.52.06:001][580]LogSlate: Took 0.010592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.06-08.52.15:126][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.06-08.52.18:431][607]LogSavePackage: Moving 'D:/UE Project/Unreal-VRGame/VRGame/Saved/Demonstration_Auto1F563F45F4D144C0CCD51BDB28FA5F31E.tmp' to 'D:/UE Project/Unreal-VRGame/VRGame/Saved/Autosaves/Game/AssetsvilleTown/Maps/Demonstration_Auto1.umap'
+[2021.03.06-08.52.18:756][607]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AssetsvilleTown/Maps/Demonstration' took 3.643
+[2021.03.06-08.52.18:756][607]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.643
+[2021.03.06-08.52.39:115][  0]LogWindows: LaunchFileInExternalEditor F:/Unreal Engine/UE_4.26/Engine/Source/Runtime/Foliage/Public/InstancedFoliageActor.h 
+[2021.03.06-08.52.39:595][  0]LogWindows: Launch application code for F:/Unreal Engine/UE_4.26/Engine/Source/Runtime/Foliage/Public/InstancedFoliageActor.h : 42
+[2021.03.06-08.52.39:595][  0]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.03.06-08.52.39:607][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:607][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:607][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:608][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:609][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:610][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:611][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:612][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:613][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:614][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:615][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:616][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:617][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:618][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:619][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:620][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:621][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:622][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:679][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:680][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:681][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:681][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:685][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:685][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:743][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:743][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:817][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:819][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:819][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:819][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:824][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:832][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:839][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:867][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:888][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:897][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:899][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:928][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:941][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:942][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:947][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:947][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:955][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.39:955][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:010][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:010][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:010][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:011][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:022][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:024][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:029][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:033][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:033][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:038][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:041][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:080][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:081][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:081][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:082][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:088][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:102][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:102][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:103][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:108][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:108][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:108][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:108][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:108][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:109][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:110][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:111][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:112][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:113][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:113][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:113][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:114][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:115][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:116][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:116][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:116][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:116][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:116][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:117][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:118][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:119][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:120][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:121][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:122][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:123][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:124][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:135][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:136][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:136][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:136][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:136][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:137][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:137][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:137][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:137][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:141][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:141][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:147][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:147][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:187][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:189][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:189][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:189][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:190][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:196][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:197][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:210][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:224][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:235][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:237][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:267][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:280][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:281][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:286][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:286][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:293][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:293][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:301][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:301][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:301][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:301][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:302][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:302][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:302][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:302][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:302][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:304][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:307][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:310][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:314][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:314][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:318][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:321][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:346][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:347][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:347][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:347][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:353][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:370][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:370][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:371][  0]LogVSAccessor: Warning: Couldn't access module table
+[2021.03.06-08.52.40:406][  1]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (shopShelve_07)
+[2021.03.06-08.53.11:942][ 58]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (pose_standing_33)
+[2021.03.06-08.53.13:268][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_2)
+[2021.03.06-08.53.18:883][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_28)
+[2021.03.06-08.53.19:631][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_29)
+[2021.03.06-08.53.20:421][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_27)
+[2021.03.06-08.53.21:281][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_28)
+[2021.03.06-08.53.21:948][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_26)
+[2021.03.06-08.53.22:866][712]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-08.53.23:604][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_22)
+[2021.03.06-08.53.24:243][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-08.53.24:611][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_29)
+[2021.03.06-08.53.25:371][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_cornerIn5)
+[2021.03.06-08.53.26:200][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_29)
+[2021.03.06-08.53.26:631][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2021.03.06-08.53.26:966][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_57)
+[2021.03.06-08.53.27:512][980]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.06-08.53.32:091][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_54)
+[2021.03.06-08.53.32:415][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_20)
+[2021.03.06-08.53.35:318][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-09.00.15:576][539]Cmd: SELECT NONE
+[2021.03.06-09.16.59:289][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-09.17.01:594][663]Cmd: EDIT COPY
+[2021.03.06-09.17.02:242][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.06-09.17.02:521][734]Cmd: EDIT PASTE
+[2021.03.06-09.17.21:925][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-09.17.23:050][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2021.03.06-09.17.27:045][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_29)
+[2021.03.06-09.17.35:362][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_parkingSpot_02)
+[2021.03.06-09.18.17:302][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_5)
+[2021.03.06-09.18.18:552][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_03)
+[2021.03.06-09.18.22:051][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.18.47:780][591]Cmd: EDIT CUT
+[2021.03.06-09.18.47:962][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.18.47:978][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.06-09.18.47:981][591]LogEditorActor: Deleted 1 Actors (0.195 secs)
+[2021.03.06-09.18.48:627][665]Cmd: TRANSACTION UNDO
+[2021.03.06-09.18.48:627][665]LogEditorTransaction: Undo Cut
+[2021.03.06-09.18.50:650][816]Cmd: EDIT CUT
+[2021.03.06-09.18.50:773][816]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.18.50:785][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.06-09.18.50:790][816]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2021.03.06-09.18.51:306][873]Cmd: TRANSACTION UNDO
+[2021.03.06-09.18.51:306][873]LogEditorTransaction: Undo Cut
+[2021.03.06-09.19.21:323][ 36]Cmd: EDIT CUT
+[2021.03.06-09.19.21:491][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:494][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:496][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:497][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:498][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:498][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:498][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:499][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:499][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:499][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:500][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:500][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:500][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:501][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:501][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:501][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:501][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:501][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:502][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:502][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:502][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:503][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:503][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:504][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:504][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:504][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.19.21:505][ 36]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.03.06-09.19.21:517][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.03.06-09.19.21:522][ 36]LogEditorActor: Deleted 27 Actors (0.192 secs)
+[2021.03.06-09.19.22:986][207]Cmd: TRANSACTION UNDO
+[2021.03.06-09.19.22:986][207]LogEditorTransaction: Undo Cut
+[2021.03.06-09.19.30:378][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.19.31:643][823]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (buildingTrailerHouse_03)
+[2021.03.06-09.19.33:174][974]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TireSet_2)
+[2021.03.06-09.19.34:839][145]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (hose_6)
+[2021.03.06-09.19.35:632][223]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wooden_blocks5)
+[2021.03.06-09.19.36:287][281]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (utility_pole_73)
+[2021.03.06-09.19.37:700][424]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wreck_2)
+[2021.03.06-09.19.38:278][477]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TireSet_6)
+[2021.03.06-09.19.39:183][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (trash_bin_22)
+[2021.03.06-09.19.39:894][632]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (trash_bin_1b11)
+[2021.03.06-09.19.40:425][681]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (trash18)
+[2021.03.06-09.19.41:308][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (workbench3)
+[2021.03.06-09.19.42:781][903]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (road_cone14)
+[2021.03.06-09.19.43:254][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (trash_bin_23)
+[2021.03.06-09.19.43:904][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.19.46:710][275]LogEditorViewport: Clicking Background
+[2021.03.06-09.19.50:252][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_73)
+[2021.03.06-09.19.51:749][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.19.52:772][951]LogEditorViewport: Clicking Background
+[2021.03.06-09.19.55:406][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_03)
+[2021.03.06-09.20.01:161][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.02:262][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.04:061][179]LogEditorViewport: Clicking Background
+[2021.03.06-09.20.10:488][920]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (speed_limit_50)
+[2021.03.06-09.20.18:823][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.19:801][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.21:417][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.25:631][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.26:838][772]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.20.27:809][878]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (fence_103a9)
+[2021.03.06-09.20.29:045][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (fence_103a7)
+[2021.03.06-09.20.30:200][149]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mailbox_14)
+[2021.03.06-09.20.31:724][321]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (speed_limit_50)
+[2021.03.06-09.21.14:380][533]LogEditorViewport: Clicking Background
+[2021.03.06-09.21.26:778][831]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.21.27:764][929]Cmd: EDIT COPY
+[2021.03.06-09.21.28:167][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2021.03.06-09.21.28:424][995]Cmd: EDIT PASTE
+[2021.03.06-09.21.32:365][384]Cmd: TRANSACTION UNDO
+[2021.03.06-09.21.32:365][384]LogEditorTransaction: Undo Paste
+[2021.03.06-09.21.44:722][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.21.45:747][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_51)
+[2021.03.06-09.21.46:434][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.21.52:527][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_21)
+[2021.03.06-09.21.55:224][315]Cmd: EDIT COPY
+[2021.03.06-09.21.55:645][362]Cmd: EDIT PASTE
+[2021.03.06-09.22.01:630][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_28)
+[2021.03.06-09.22.17:918][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_73)
+[2021.03.06-09.22.18:880][525]Cmd: EDIT COPY
+[2021.03.06-09.22.19:784][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.22.22:651][909]Cmd: EDIT PASTE
+[2021.03.06-09.23.31:644][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.23.32:522][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.23.33:334][711]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.23.33:958][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.06-09.23.35:077][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_81)
+[2021.03.06-09.23.35:840][969]LogSlate: Took 0.002283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.06-09.24.29:780][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.24.43:556][127]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.24.44:396][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.24.45:280][300]Cmd: TRANSACTION UNDO
+[2021.03.06-09.24.45:280][300]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.24.45:505][310]Cmd: TRANSACTION UNDO
+[2021.03.06-09.24.45:505][310]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.24.45:705][315]Cmd: TRANSACTION UNDO
+[2021.03.06-09.24.45:705][315]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.25.05:348][ 42]Cmd: DELETE
+[2021.03.06-09.25.05:351][ 42]Cmd: ACTOR DELETE
+[2021.03.06-09.25.05:480][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.25.05:503][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.03.06-09.25.05:506][ 42]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2021.03.06-09.25.08:237][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_52)
+[2021.03.06-09.25.09:810][417]Cmd: EDIT COPY
+[2021.03.06-09.25.12:598][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2021.03.06-09.25.13:606][781]Cmd: EDIT PASTE
+[2021.03.06-09.25.47:423][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_17)
+[2021.03.06-09.25.56:079][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2021.03.06-09.25.56:911][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Windmill_2)
+[2021.03.06-09.26.12:111][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_51)
+[2021.03.06-09.26.19:309][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.26.21:700][108]Cmd: TRANSACTION UNDO
+[2021.03.06-09.26.21:701][108]LogEditorTransaction: Undo Move Actors
+[2021.03.06-09.26.39:857][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grassHill_9)
+[2021.03.06-09.26.56:565][ 17]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.27.30:878][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_5)
+[2021.03.06-09.27.32:580][118]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.27.39:019][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.27.43:157][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mailbox_15)
+[2021.03.06-09.27.45:381][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.27.47:039][232]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2021.03.06-09.27.51:331][317]LogEditorViewport: Clicking Background
+[2021.03.06-09.28.08:399][844]LogEditorViewport: Clicking Background
+[2021.03.06-09.28.33:819][272]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.28.40:141][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_69)
+[2021.03.06-09.28.41:219][824]Cmd: EDIT COPY
+[2021.03.06-09.28.42:006][907]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.28.42:283][932]Cmd: EDIT PASTE
+[2021.03.06-09.29.50:085][495]Cmd: TRANSACTION UNDO
+[2021.03.06-09.29.50:085][495]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.29.54:434][853]Cmd: TRANSACTION UNDO
+[2021.03.06-09.29.54:434][853]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.30.03:894][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_69)
+[2021.03.06-09.30.09:373][856]Cmd: TRANSACTION UNDO
+[2021.03.06-09.30.09:373][856]LogEditorTransaction: Undo Set Rotation
+[2021.03.06-09.30.14:028][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_82)
+[2021.03.06-09.30.16:025][268]Cmd: DELETE
+[2021.03.06-09.30.16:025][268]Cmd: ACTOR DELETE
+[2021.03.06-09.30.16:129][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.30.16:140][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.06-09.30.16:143][268]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2021.03.06-09.30.17:183][364]Cmd: TRANSACTION UNDO
+[2021.03.06-09.30.17:184][364]LogEditorTransaction: Undo Delete Actors
+[2021.03.06-09.30.18:253][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_82)
+[2021.03.06-09.31.12:099][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_5)
+[2021.03.06-09.31.17:093][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.31.25:345][348]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.31.28:511][682]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mailbox_15)
+[2021.03.06-09.32.23:807][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.03.06-09.32.26:571][699]LogSavePackage: Moving 'D:/UE Project/Unreal-VRGame/VRGame/Saved/Demonstration_Auto2C0B43E9A41AC1DE10404A3B5EC1EBDD6.tmp' to 'D:/UE Project/Unreal-VRGame/VRGame/Saved/Autosaves/Game/AssetsvilleTown/Maps/Demonstration_Auto2.umap'
+[2021.03.06-09.32.26:737][699]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AssetsvilleTown/Maps/Demonstration' took 2.959
+[2021.03.06-09.32.26:737][699]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.959
+[2021.03.06-09.32.38:443][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.32.46:517][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2021.03.06-09.33.07:132][842]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.33.08:708][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_24)
+[2021.03.06-09.33.11:679][336]Cmd: DELETE
+[2021.03.06-09.33.11:679][336]Cmd: ACTOR DELETE
+[2021.03.06-09.33.11:780][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.33.11:797][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.03.06-09.33.11:800][336]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2021.03.06-09.33.12:334][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_23)
+[2021.03.06-09.33.13:024][453]Cmd: DELETE
+[2021.03.06-09.33.13:024][453]Cmd: ACTOR DELETE
+[2021.03.06-09.33.13:149][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.33.13:163][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.06-09.33.13:164][453]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2021.03.06-09.33.24:328][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (buildingTrailerHouse_5)
+[2021.03.06-09.33.27:043][516]Cmd: TRANSACTION UNDO
+[2021.03.06-09.33.27:043][516]LogEditorTransaction: Undo Move Actors
+[2021.03.06-09.33.38:714][299]Cmd: TRANSACTION UNDO
+[2021.03.06-09.33.38:714][299]LogEditorTransaction: Undo Move Actors
+[2021.03.06-09.33.40:216][423]Cmd: TRANSACTION UNDO
+[2021.03.06-09.33.40:216][423]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.33.41:906][604]Cmd: TRANSACTION REDO
+[2021.03.06-09.33.41:906][604]LogEditorTransaction: Redo Clicking on Actors
+[2021.03.06-09.33.53:172][407]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_16)
+[2021.03.06-09.34.03:590][321]LogEditorViewport: Clicking Background
+[2021.03.06-09.34.05:783][580]Cmd: TRANSACTION UNDO
+[2021.03.06-09.34.05:783][580]LogEditorTransaction: Undo Clicking Background
+[2021.03.06-09.34.08:551][862]LogEditorViewport: Clicking Background
+[2021.03.06-09.34.12:884][366]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (veh_Sedan_6)
+[2021.03.06-09.34.14:302][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.34.15:471][658]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (buildingTrailerHouse_5)
+[2021.03.06-09.34.16:294][743]LogEditorViewport: Clicking Background
+[2021.03.06-09.34.19:190][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (parcel_14)
+[2021.03.06-09.34.24:398][640]LogEditorViewport: Clicking Background
+[2021.03.06-09.34.34:425][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.34.35:231][862]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.34.36:149][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.34.47:546][ 58]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.35.12:385][659]LogMaterial: Display: Missing cached shader map for material FoliageBrushSphereMaterial, compiling. 
+[2021.03.06-09.35.12:508][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.03.06-09.35.12:508][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.03.06-09.35.12:508][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.03.06-09.35.12:508][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.03.06-09.35.50:561][242]Cmd: TRANSACTION UNDO
+[2021.03.06-09.35.50:561][242]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.35.51:844][347]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.35.53:971][561]Cmd: TRANSACTION UNDO
+[2021.03.06-09.35.53:971][561]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.35.54:987][637]Cmd: DELETE
+[2021.03.06-09.35.54:987][637]Cmd: ACTOR DELETE
+[2021.03.06-09.35.55:110][637]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2021.03.06-09.35.55:141][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.03.06-09.35.55:164][637]LogEditorActor: Deleted 1 Actors (0.177 secs)
+[2021.03.06-09.35.56:194][755]Cmd: TRANSACTION UNDO
+[2021.03.06-09.35.56:194][755]LogEditorTransaction: Undo Delete Actors
+[2021.03.06-09.37.27:427][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.37.28:298][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.37.33:422][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.37.33:902][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.03.06-09.37.34:405][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.38.04:872][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.38.06:196][307]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.06:865][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.38.16:707][317]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.18:065][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.38.20:226][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.38.21:077][661]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.21:804][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.38.22:628][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.38.23:434][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.38.34:945][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.38.36:002][835]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.36:882][910]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.37:572][969]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.38:216][ 24]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.38:559][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.38.39:245][104]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.40:028][171]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.38.40:587][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.38.41:446][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.40.02:228][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.40.02:914][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_81)
+[2021.03.06-09.40.04:376][642]Cmd: EDIT COPY
+[2021.03.06-09.40.08:661][ 72]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.40.09:088][109]Cmd: EDIT PASTE
+[2021.03.06-09.40.37:163][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (utility_pole_73)
+[2021.03.06-09.40.37:978][ 68]Cmd: DELETE
+[2021.03.06-09.40.37:978][ 68]Cmd: ACTOR DELETE
+[2021.03.06-09.40.38:083][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.40.38:091][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.03.06-09.40.38:097][ 68]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2021.03.06-09.40.43:988][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-09.40.52:708][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_35)
+[2021.03.06-09.40.53:516][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_57)
+[2021.03.06-09.40.59:118][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grassHill_17)
+[2021.03.06-09.40.59:451][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2021.03.06-09.41.29:845][630]Cmd: TRANSACTION UNDO
+[2021.03.06-09.41.29:845][630]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.41.33:176][867]Cmd: TRANSACTION UNDO
+[2021.03.06-09.41.33:176][867]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.41.37:502][207]Cmd: TRANSACTION UNDO
+[2021.03.06-09.41.37:502][207]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.41.49:939][  7]Cmd: TRANSACTION UNDO
+[2021.03.06-09.41.49:939][  7]LogEditorTransaction: Undo Foliage Editing
+[2021.03.06-09.42.50:122][ 85]Cmd: SELECT NONE
+[2021.03.06-09.42.50:688][116]Cmd: SELECT NONE
+[2021.03.06-09.43.00:597][983]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.03.06-09.43.00:602][983]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.06-09.43.00:602][983]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.03.06-09.43.00:602][983]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.03.06-09.43.00:629][983]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.06-09.43.00:636][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.03.06-09.43.00:636][983]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.03.06-09.43.00:636][983]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.06-09.43.00:652][983]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.06-09.43.00:659][983]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.03.06-09.43.00:683][983]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.06-09.43.00:689][983]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.06-09.43.00:695][983]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.06-09.43.00:715][983]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.03.06-09.43.00:721][983]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.03.06-09.43.00:737][983]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.03.06-09.43.00:744][983]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.03.06-09.43.00:799][983]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.03.06-09.43.00:808][983]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.03.06-09.43.00:848][983]LogMaterial: Display: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2021.03.06-09.43.00:861][983]LogMaterial: Display: Missing cached shader map for material MirrorPlaneMaterial, compiling. 
+[2021.03.06-09.43.00:882][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:888][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:894][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:909][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:925][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:930][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:945][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:951][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:971][983]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.03.06-09.43.00:978][983]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.03.06-09.43.00:993][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.00:999][983]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.03.06-09.43.01:013][983]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.06-09.43.01:018][983]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.03.06-09.43.01:036][983]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.03.06-09.43.01:100][983]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.03.06-09.43.01:660][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 376
+[2021.03.06-09.43.01:660][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 366
+[2021.03.06-09.43.02:260][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 356
+[2021.03.06-09.43.02:862][ 35]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 346
+[2021.03.06-09.43.05:712][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_11)
+[2021.03.06-09.43.09:357][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2021.03.06-09.43.10:306][578]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.43.11:496][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 326
+[2021.03.06-09.43.14:920][970]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 316
+[2021.03.06-09.43.14:997][974]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.43.18:834][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 306
+[2021.03.06-09.43.20:910][392]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 296
+[2021.03.06-09.43.21:359][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 286
+[2021.03.06-09.43.25:603][733]Cmd: TRANSACTION UNDO
+[2021.03.06-09.43.25:603][733]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.43.26:148][745]Cmd: TRANSACTION UNDO
+[2021.03.06-09.43.26:148][745]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.43.26:273][746]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 276
+[2021.03.06-09.43.27:277][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.43.28:734][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_27)
+[2021.03.06-09.43.29:582][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2021.03.06-09.43.29:746][ 34]Cmd: DELETE
+[2021.03.06-09.43.29:746][ 34]Cmd: ACTOR DELETE
+[2021.03.06-09.43.29:892][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.06-09.43.29:909][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.03.06-09.43.29:916][ 34]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2021.03.06-09.43.30:725][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 256
+[2021.03.06-09.43.30:726][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.43.31:490][177]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.43.31:991][218]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2021.03.06-09.43.32:810][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.43.33:413][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2021.03.06-09.43.38:806][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 236
+[2021.03.06-09.43.39:762][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 226
+[2021.03.06-09.43.40:403][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_corner5)
+[2021.03.06-09.43.41:612][930]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 216
+[2021.03.06-09.43.45:689][229]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2021.03.06-09.43.46:289][273]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 196
+[2021.03.06-09.43.50:373][574]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 186
+[2021.03.06-09.43.54:323][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 176
+[2021.03.06-09.43.58:304][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2021.03.06-09.43.58:758][296]Cmd: TRANSACTION UNDO
+[2021.03.06-09.43.58:758][296]LogEditorTransaction: Undo Move Actors
+[2021.03.06-09.43.59:398][321]Cmd: TRANSACTION UNDO
+[2021.03.06-09.43.59:398][321]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.44.01:502][502]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 156
+[2021.03.06-09.44.04:439][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2021.03.06-09.44.05:823][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 136
+[2021.03.06-09.44.06:337][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_corner5)
+[2021.03.06-09.44.07:000][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_corner5)
+[2021.03.06-09.44.07:387][991]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2021.03.06-09.44.11:173][348]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2021.03.06-09.44.11:194][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 106
+[2021.03.06-09.44.12:288][451]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.12:288][451]LogEditorTransaction: Undo Move Actors
+[2021.03.06-09.44.17:213][862]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.03.06-09.44.17:829][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2021.03.06-09.44.21:703][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.03.06-09.44.22:862][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.03.06-09.44.25:051][532]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2021.03.06-09.44.30:776][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2021.03.06-09.44.33:468][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.03.06-09.44.34:141][341]LogTemp: Warning: Paint vertex colors on selected meshes.  Use the Color View Mode to preview your applied changes.
+[2021.03.06-09.44.34:418][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.03.06-09.44.37:518][632]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.03.06-09.44.43:035][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.03.06-09.44.43:213][119]LogTemp: Warning: The Texture Weight Painting mode enables you to paint on textures and access available properties while doing so .
+[2021.03.06-09.44.43:935][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.03.06-09.44.44:659][231]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.03.06-09.44.46:340][347]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.46:340][347]LogEditorTransaction: Undo Texture Paint
+[2021.03.06-09.44.46:408][347]LogTexture: Display: Building textures: T_roadSet (AutoDXT, 2048X2048)
+[2021.03.06-09.44.46:887][359]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.46:887][359]LogEditorTransaction: Undo Texture Paint
+[2021.03.06-09.44.46:929][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.03.06-09.44.46:966][360]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.03.06-09.44.47:239][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.03.06-09.44.47:241][382]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.47:241][382]LogEditorTransaction: Undo Change Tool
+[2021.03.06-09.44.47:244][382]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.06-09.44.48:692][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.03.06-09.44.48:692][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.03.06-09.44.48:692][382]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.447 s
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: 
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ScopedTransaction.cpp] [Line: 20]
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: 
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: Stack: 
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdaf11238 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda87e8df UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb7b4a208 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb7b7178d UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcd1f7c49e UE4Editor-InteractiveToolsFramework.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcd1f930da UE4Editor-InteractiveToolsFramework.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda362912 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda33838b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda383840 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda2e11a1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcda2db06e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdab5cc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb9c653c5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb9c65eae UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdbaf33b9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdbb2c65a UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb9c737de UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcb9c65065 UE4Editor-MainFrame.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdbb2e41d UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcdbb22236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcecf6b948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcecf59197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcecf6e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcecf54310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffd8523e858 USER32.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffd8523e299 USER32.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffcecf6f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ff7ae388857 UE4Editor.exe!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ff7ae3a11ac UE4Editor.exe!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ff7ae3a128a UE4Editor.exe!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ff7ae3b52ed UE4Editor.exe!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ff7ae3b801a UE4Editor.exe!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffd84897034 KERNEL32.DLL!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: [Callstack] 0x00007ffd86122651 ntdll.dll!UnknownFunction []
+[2021.03.06-09.44.48:692][382]LogOutputDevice: Error: 
+[2021.03.06-09.44.48:703][382]LogStats:                SubmitErrorReport -  0.000 s
+[2021.03.06-09.44.51:367][382]LogStats:                    SendNewReport -  2.664 s
+[2021.03.06-09.44.51:367][382]LogStats:             FDebug::EnsureFailed -  4.123 s
+[2021.03.06-09.44.51:456][382]LogTexture: Display: Building textures: T_roadSet (AutoDXT, 2048X2048)
+[2021.03.06-09.44.51:658][382]LogTemp: Warning: Paint vertex colors on selected meshes.  Use the Color View Mode to preview your applied changes.
+[2021.03.06-09.44.51:662][382]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.51:662][382]LogEditorTransaction: Undo Vertex Paint
+[2021.03.06-09.44.51:663][382]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.51:663][382]LogEditorTransaction: Undo Vertex Paint
+[2021.03.06-09.44.51:675][382]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (parcel_10)
+[2021.03.06-09.44.51:744][382]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (parcel_10)
+[2021.03.06-09.44.53:017][486]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.53:017][486]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.03.06-09.44.53:394][499]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.53:394][499]LogEditorTransaction: Undo Vertex Paint
+[2021.03.06-09.44.53:615][515]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.53:615][515]LogEditorTransaction: Undo Change Tool
+[2021.03.06-09.44.53:616][515]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.03.06-09.44.53:825][533]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.53:825][533]LogEditorTransaction: Undo Change Tool
+[2021.03.06-09.44.54:019][552]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.54:019][552]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.44.54:226][566]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.54:226][566]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.44.54:536][595]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.54:537][595]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.06-09.44.54:869][625]Cmd: TRANSACTION UNDO
+[2021.03.06-09.44.54:869][625]LogEditorTransaction: Undo Set Scale
+[2021.03.06-09.44.57:744][947]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.57:745][947]LogEditorTransaction: Redo Set Scale
+[2021.03.06-09.44.57:962][965]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.57:962][965]LogEditorTransaction: Redo Clicking on Actors
+[2021.03.06-09.44.58:187][983]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.58:187][983]LogEditorTransaction: Redo Set Scale
+[2021.03.06-09.44.58:387][999]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.58:387][999]LogEditorTransaction: Redo Set Scale
+[2021.03.06-09.44.58:707][ 30]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.58:707][ 30]LogEditorTransaction: Redo Change Tool
+[2021.03.06-09.44.58:707][ 30]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.03.06-09.44.59:025][ 63]Cmd: TRANSACTION REDO
+[2021.03.06-09.44.59:025][ 63]LogEditorTransaction: Redo Change Tool
+[2021.03.06-09.44.59:025][ 63]LogTemp: Warning: Paint vertex colors on selected meshes.  Use the Color View Mode to preview your applied changes.
+[2021.03.06-09.45.01:274][294]LogTemp: Warning: The Texture Weight Painting mode enables you to paint on textures and access available properties while doing so .
+[2021.03.06-09.45.20:250][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_13)
+[2021.03.06-09.45.23:024][344]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.06-09.45.24:477][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_corner5)
+[2021.03.06-09.45.27:441][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2021.03.06-09.45.30:441][793]LogWindows: Error: === Critical error: ===
+[2021.03.06-09.45.30:441][793]LogWindows: Error: 
+[2021.03.06-09.45.30:441][793]LogWindows: Error: Unhandled Exception: EXCEPTION_STACK_OVERFLOW
+[2021.03.06-09.45.30:441][793]LogWindows: Error: 
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b4297e UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42c69 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:441][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:442][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:443][793]LogWindows: Error: [Callstack] 0x00007ffcb7b42eb5 UE4Editor-MeshPaintingToolset.dll!UnknownFunction []
+[2021.03.06-09.45.30:444][793]LogWindows: Error: 
+[2021.03.06-09.45.30:455][793]LogExit: Executing StaticShutdownAfterError
+[2021.03.06-09.45.31:321][793]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.03.06-09.45.31:321][793]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.03.06-09.45.31:363][793]Log file closed, 03/06/21 22:45:31
