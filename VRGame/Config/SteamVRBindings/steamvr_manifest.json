@@ -172,6 +172,46 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/Vive (L) Trackpad Up",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (L) Trackpad Down",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (L) Trackpad Left",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (L) Trackpad Right",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (R) Trackpad Up",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (R) Trackpad Down",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (R) Trackpad Left",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Vive (R) Trackpad Right",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Trigger (L)",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Trigger (R)",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/TeleportDirectionUp axis",
 			"type": "vector1"
 		},
@@ -450,6 +490,16 @@
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/Vive (L) Grip": "Vive (L) Grip",
 			"/actions/main/in/Vive (R) Grip": "Vive (R) Grip",
+			"/actions/main/in/Vive (L) Trackpad Up": "Vive (L) Trackpad Up",
+			"/actions/main/in/Vive (L) Trackpad Down": "Vive (L) Trackpad Down",
+			"/actions/main/in/Vive (L) Trackpad Left": "Vive (L) Trackpad Left",
+			"/actions/main/in/Vive (L) Trackpad Right": "Vive (L) Trackpad Right",
+			"/actions/main/in/Vive (R) Trackpad Up": "Vive (R) Trackpad Up",
+			"/actions/main/in/Vive (R) Trackpad Down": "Vive (R) Trackpad Down",
+			"/actions/main/in/Vive (R) Trackpad Left": "Vive (R) Trackpad Left",
+			"/actions/main/in/Vive (R) Trackpad Right": "Vive (R) Trackpad Right",
+			"/actions/main/in/Trigger (L)": "Trigger (L)",
+			"/actions/main/in/Trigger (R)": "Trigger (R)",
 			"/actions/main/in/TeleportDirectionUp axis": "TeleportDirectionUp",
 			"/actions/main/in/TeleportDirectionRight axis": "TeleportDirectionRight",
 			"/actions/main/in/MotionControllerThumbLeft_Y axis": "MotionControllerThumbLeft_Y",
