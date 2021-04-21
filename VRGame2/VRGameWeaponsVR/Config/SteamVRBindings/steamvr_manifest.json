@@ -230,6 +230,14 @@
 		{
 			"name": "/actions/main/in/Left axis",
 			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Vive-Trigger L axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/Vive-Trigger R axis",
+			"type": "vector1"
 		}
 	],
 	"action_sets": [
@@ -493,6 +501,8 @@
 			"/actions/main/in/TeleportDirectionUp axis": "TeleportDirectionUp",
 			"/actions/main/in/Forward axis": "Forward",
 			"/actions/main/in/Left axis": "Left",
+			"/actions/main/in/Vive-Trigger L axis": "Vive-Trigger L",
+			"/actions/main/in/Vive-Trigger R axis": "Vive-Trigger R",
 			"/actions/main": "Main Game Actions"
 		}
 	]
