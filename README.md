@@ -1,6 +1,6 @@
 # Unreal-VRGame
 
-Unreal Engine 4.26.4
+Unreal Engine 4.26.2
 
 
 - Survival Game
@@ -13,5 +13,4 @@ Unreal Engine 4.26.4
 - Enemies
 - Items - Item Randomisation
 - Inventory System
-
 - VR
