@@ -138,6 +138,28 @@
 							"output": "/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d"
 						}
 					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"pull":
+						{
+							"output": "/actions/main/in/Vive-Trigger L axis"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"pull":
+						{
+							"output": "/actions/main/in/Vive-Trigger R axis"
+						}
+					}
 				}
 			],
 			"poses": [
@@ -173,5 +195,5 @@
 			]
 		}
 	},
-	"description": "VR_weapons_kit-15228867"
+	"description": "VR_weapons_kit-15973114"
 }

@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.vr_weapons_kit-15228867.ue4editor.exe",
+			"app_key": "application.generated.ue.vr_weapons_kit-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Adam/OneDrive/UE4 Marketplace/VRweapons/Marketplace/4_26/VR_WeaponsKit/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/rheyd/Desktop/Unreal-VRGame/VRGame2/VRGameWeaponsVR/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "VR_weapons_kit-15228867 [UE Editor]"
+					"name": "VR_weapons_kit-15973114 [UE Editor]"
 				}
 			}
 		}
