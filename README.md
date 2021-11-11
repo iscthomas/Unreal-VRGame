@@ -2,15 +2,12 @@
 
 Unreal Engine 4.26.2
 
+References or used assets: 
 
-- Survival Game
+Assetville Town: https://unrealengine.com/marketplace/en-US/product/assetsville-town
 
-- Level
-- Buildings
-- Player
-- Weapons
-- FPS
-- Enemies
-- Items - Item Randomisation
-- Inventory System
-- VR
+VR Weapons Kit: https://unrealengine.com/marketplace/en-US/product/vr-weapons-kit-tactical-assault
+
+AI: https://www.unrealengine.com/marketplace/en-US/product/open-world-ai-spawn-system
+
+Item spawning: https://www.youtube.com/watch?v=hdAO6098Jy0
